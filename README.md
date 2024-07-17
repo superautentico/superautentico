@@ -11,7 +11,7 @@
 
 
 	
-#<picture><img src = "about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="programming.svg" width = 250px></picture>
 
