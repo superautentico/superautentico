@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught cybersecurity auditor
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.)
