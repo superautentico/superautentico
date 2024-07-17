@@ -1,31 +1,23 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Álvaro 👋
 
 ![Banner de GitHub](ruta/al/banner.jpg)
 
 ## Sobre mí
 
-Soy un [Tu Profesión] con experiencia en [Áreas de Especialización]. Me apasiona [Tus Intereses Profesionales], y me encanta aprender y aplicar nuevas tecnologías. Actualmente, estoy enfocado en [Tu Enfoque Actual] y siempre estoy buscando colaborar en proyectos interesantes.
-
-- 🌱 Actualmente, estoy aprendiendo [Tecnologías o Habilidades].
-- 👯 Estoy buscando colaborar en [Tipo de Proyectos].
-- 🤔 Estoy buscando ayuda con [Áreas donde necesitas ayuda].
-- 💬 Pregúntame sobre [Tus Áreas de Experiencia].
-- 📫 Cómo contactarme: [Tu Email]
-- 😄 Pronombres: [Tus Pronombres]
-- ⚡ Dato curioso: [Un Dato Curioso sobre Ti]
+Soy un tecnico en administración de sistemas en red, tambien soy Junior Penetration Tester. Me apasiona la ciberseguridad, la programación y todo lo relacionado, y me encanta aprender y aplicar nuevas tecnologías. Actualmente, estoy enfocado en aprender nuevas tecnologias.
 
 ## Tecnologías y Herramientas
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![EJPT](https://img.shields.io/badge/-EJPT-333333?style=flat&logo=ejpt)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+
 
 ## Estadísticas de GitHub
 
