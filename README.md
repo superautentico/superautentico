@@ -61,9 +61,8 @@
 
 - **Extras**:
 
- ![HTB](https://www.hackthebox.eu/badge/image/64863)
+<img src="https://www.hackthebox.eu/badge/image/64863" alt="HTB" width="200" height="53"> <img src="https://tryhackme-badges.s3.amazonaws.com/yeaex.png" alt="THM" width="200">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/yeaex.png" alt="Your Image Badge" />
 
  
 - **CyberSecurity**:
