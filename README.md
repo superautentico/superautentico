@@ -68,7 +68,7 @@
 
 - **CyberSecurity**:
 
-<img src="https://www.hackthebox.eu/badge/image/64863" alt="HTB" width="200" height="53"> <img src="https://tryhackme-badges.s3.amazonaws.com/yeaex.png" alt="THM" width="200">
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.hackthebox.eu/badge/image/64863" alt="HTB" width="200" height="53"> <img src="https://tryhackme-badges.s3.amazonaws.com/yeaex.png" alt="THM" width="200"></p>
 
 
  
