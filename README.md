@@ -40,10 +40,17 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Web**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  
 
 
 - **Softwares and Tools**:
@@ -59,13 +66,13 @@
 
 <br>
 
-- **Extras**:
+- **CyberSecurity**:
 
 <img src="https://www.hackthebox.eu/badge/image/64863" alt="HTB" width="200" height="53"> <img src="https://tryhackme-badges.s3.amazonaws.com/yeaex.png" alt="THM" width="200">
 
 
  
-- **CyberSecurity**:
+- **Certifications**:
    <div style="display: flex; align-items: center;">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103728544" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
     
@@ -77,19 +84,15 @@
 <br>
 <br>
 
------
-
-<br>
+## GitHub
 
 
-
-<br>
 
 <div align="center">
 
 <a href="https://github.com/superautentico/">
-  <img src="https://github-readme-stats.vercel.app/api?username=superautentico&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=superautentico&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="superautentico"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=superautentico&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=superautentico&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" "/>
 
 </a>
 </div>
@@ -98,13 +101,9 @@
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/superautentico/superautentico/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+## Connect with me: 
 
 <div style="display: flex;">
     <a href="https://www.twitch.tv/alv4sec" target="_blank" style="margin-right: 20px;">
@@ -123,25 +122,4 @@
 </div>
 
 
-
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
 
