@@ -103,26 +103,28 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/superautentico/superautentico/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
 
-<ul>
+<div style="display: flex;">
+    <a href="https://www.twitch.tv/alv4sec" target="_blank" style="margin-right: 20px;">
+        <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
+    </a>
+    <a href="https://www.youtube.com/@alv4sec" target="_blank" style="margin-right: 20px;">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+    </a>
+    <a href="https://www.instagram.com/alv4sec" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:alv4sec@gmail.com"" target="_blank" style="margin-right: 20px;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
 
-<li>
-<a href="https://linkedin.com/in/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Álvaro-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<li>
-<a href="mailto:lopezon2003@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: Álvaro-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
 
+
+
+
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
